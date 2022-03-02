@@ -40,3 +40,9 @@ main h2 {
 .codys-styles {
     background:rgb(92, 149, 235);
 }
+
+.marcelle-style {
+    background: black;
+    color: red;
+    padding: 3px;
+}
